@@ -11,6 +11,8 @@ namespace Aula99
             Console.WriteLine("Como vc esta hj?");
 
             Console.WriteLine("Tenha um bom dia!");
+
+            Console.WriteLine("Tchau!");
         }
     }
 }
