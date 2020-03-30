@@ -9,6 +9,8 @@ namespace Aula99
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Bom dia!");
+
+            Console.WriteLine("Como vc esta hj?");
         }
     }
 }
