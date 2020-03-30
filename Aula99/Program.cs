@@ -6,11 +6,11 @@ namespace Aula99
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            Console.WriteLine("Bom dia!");
+            Console.WriteLine("Hello World!");           
 
             Console.WriteLine("Como vc esta hj?");
+
+            Console.WriteLine("Tenha um bom dia!");
         }
     }
 }
